@@ -25,4 +25,5 @@ elif opcion == "/":
     resultado = numero1 / numero2 
     print(f"La division de {numero1} y {numero2} es: {resultado}") 
 else:
-    print("Operacion no valida") 
+    print("Operacion no valida")  
+
